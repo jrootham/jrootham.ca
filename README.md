@@ -1,2 +1,2 @@
 # jrootham.ca
-Site
+[Site](docroot)
