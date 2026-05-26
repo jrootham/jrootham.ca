@@ -1,9 +1,17 @@
 # Economics of Rental Properties
 
-## Costs
+## Introduction
 
-### Operating
+### Costs
 
-### 
+#### Operating
 
-## Pricing
+#### Mortgage
+
+#### Replacement Reserves
+
+### Pricing
+
+## Conclusion
+
+
