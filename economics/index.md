@@ -8,10 +8,12 @@
 
 #### Mortgage
 
+##### Variable Rate
+
 #### Replacement Reserves
 
 ### Pricing
 
-## Conclusion
+## Conclusions
 
 
