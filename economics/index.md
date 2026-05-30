@@ -60,4 +60,10 @@ Prices set close to costs.  Costs squeezed.
 
 ## Conclusions
 
+Private landlords are a bad idea.
+
+Not for profits have issues with replacement reserves.
+
+
+
 
