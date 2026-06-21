@@ -1,6 +1,15 @@
 # Economics of Rental Properties
 
-## Summary?
+## Summary
+
+There are 2 conclusions and a pair of corresponding recomendations.
+
+### General
+
+Private landlords are a bad idea because markets will only drive prices down to the costs of new construction, not the (much lower) costs of existing buildings.
+
+
+### Existing Not for Profit
 
 ## Introduction
 
