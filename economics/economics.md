@@ -12,11 +12,11 @@ Structure of costs
 
 What operating costs look like
 
-#### Mortgage
+##### Mortgage
 
 Mortage structure
 
-##### Variable Rate
+###### Variable Rate
 
 Variable rate issues
 
@@ -24,9 +24,18 @@ Variable rate issues
 
 Specific proposal
 
-#### Replacement Reserves
+##### Replacement Reserves
 
 Description and issues
+
+####
+
+Total costs
+
+![Graph of nominal dollar costs - flat mortgage, inflation operating, more than inflation replacement reserves, total](_assets/nominal.svg)
+
+![Graph of constant dollar costs - declining mortgage, flat operating, increasing replacement reserves, total](_assets/constant.svg)
+
 
 ### Pricing
 
