@@ -28,9 +28,7 @@ Specific proposal
 
 Description and issues
 
-####
-
-Total costs
+#### Total costs
 
 ![Graph of nominal dollar costs - flat mortgage, inflation operating, more than inflation replacement reserves, total](nominal.svg)
 
