@@ -24,7 +24,7 @@ The model used here assumes that the Bank of Canada hits its target rate for inf
 
 #### Operating
 
-Operating costs include taxes, utilities, employees, maintenance, and others.  The simplifying assumtion here is to estimate the costs at startup and have them increase by inflation every year.  As with the mortgage model the assumption assumes that the Bank of Canada hits its inflation rate target (2%).
+Operating costs include taxes, utilities, employees, maintenance, and others.  The simplifying assumption here is to estimate the costs at startup and have them increase by inflation every year.  As with the mortgage model the assumption assumes that the Bank of Canada hits its inflation rate target (2%).
 
 ##### Replacement Reserves
 
@@ -38,7 +38,7 @@ The nominal dollar chart is best interpreted as the history of a typical rental 
 
 ![Graph of nominal dollar costs - flat mortgage, inflation operating, more than inflation replacement reserves, total](nominal.svg)
 
-The constant dollar chart is best interpreted as the typical cost this year of a unit built that many years ago.
+The constant dollar chart is best interpreted as the typical cash flow this year of a unit built that many years ago.
 
 ![Graph of constant dollar costs - declining mortgage, flat operating, increasing replacement reserves, total](constant.svg)
 
@@ -62,7 +62,7 @@ These strategies can be mixed.  Co-ops typically use 2 and 3.
 #### For Profit
 
 Several different models, generally split between 2 catgories.
-Location, location, location also applies to rentals, so we have desirable locations and undesirable loctions.
+Location, location, location also applies to rentals, so we have desirable locations and undesirable locations.
 
 ##### Desirable Locations
 
