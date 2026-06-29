@@ -28,20 +28,15 @@ Operating costs include taxes, utilities, employees, maintenance, and others.  T
 
 ##### Replacement Reserves
 
-Description and issues
+Replacement reserves are money saved to pay for large maintenance items.  To estimate them properly requires a building condtion assessment to determine the timing of the replacement and a financial plan to determine the saving rate.
 
-#### Total costs
+The simplified plan here starts with an estimate and inflates it every year by the expected inflation for large repairs, which at 3.5% is higher than the general inflation rate.
+
+There is always a temptation to inadequately fund these reserves, since the money is immediate and the problems are in the future.  For private buildings financing repairs by future borrowing means that you can apply for above guideline rent increases to cover that cost.
+
+#### Total Costs
 
 The sum of the three categories.
-
-The nominal dollar chart is best interpreted as the history of a typical rental project.
-
-![Graph of nominal dollar costs - flat mortgage, inflation operating, more than inflation replacement reserves, total](nominal.svg)
-
-The constant dollar chart is best interpreted as the typical cash flow this year of a unit built that many years ago.
-
-![Graph of constant dollar costs - declining mortgage, flat operating, increasing replacement reserves, total](constant.svg)
-
 
 ### Pricing
 
@@ -79,5 +74,19 @@ Some (typically smaller) landlords will reduce stress by not maximizing profits.
 ##### Undesirable Locations 
 
 In this case prices are set close to costs.  The landlord will squeeze costs.
+
+### Charts
+
+The charts are about cash flow.  
+
+The rent estimates (start just below costs and increase by the inflation rate) are very conservative.
+
+The nominal dollar chart is best interpreted as the history of a typical rental project.
+
+![Graph of nominal dollar costs - flat mortgage, inflation operating, more than inflation replacement reserves, total](nominal.svg)
+
+The constant dollar chart is best interpreted as the typical cash flow this year of a unit built that many years ago.
+
+![Graph of constant dollar costs - declining mortgage, flat operating, increasing replacement reserves, total](constant.svg)
 
 
