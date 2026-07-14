@@ -7,5 +7,7 @@ This is most directly seen in co-ops, since political problems are transparent i
 It also shows up in government social housing (like Toronto Housing) since politicians tend to make decisions on short timelines.
 
 See [General Economics](economics.md)
+
 [Costs](costs.md)
+
 [Pricing](nonprofit.md)
