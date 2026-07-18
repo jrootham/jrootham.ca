@@ -10,7 +10,7 @@ A fundamental assumption is that building life is measured in decades or centuri
 
 {% include_relative costs.md %}
 
-{% include_relative profits.md %}
+{% include_relative profit.md %}
 
 ### Charts
 
