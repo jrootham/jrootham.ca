@@ -7,3 +7,5 @@ This is what Econ 101 claims is the wonderful solution.  Older buildings are mas
 
 Given that future profits can be much higher than current profits it may involve flipping properties. In this case current profits may be relatively low because they have already been captured by the price paid for the building.
 
+In the charts below the rent estimates (start just below costs and increase by the inflation rate) are very conservative.
+

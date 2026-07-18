@@ -10,11 +10,11 @@ A fundamental assumption is that building life is measured in decades or centuri
 
 {% include_relative costs.md %}
 
+{% include_relative profits.md %}
+
 ### Charts
 
 The charts are about cash flow.  
-
-The rent estimates (start just below costs and increase by the inflation rate) are very conservative.
 
 The nominal dollar chart is best interpreted as the history of a typical rental project.
 
