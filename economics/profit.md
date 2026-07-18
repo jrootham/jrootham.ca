@@ -1,21 +1,9 @@
-#### For Profit
+#### Rents
 
-Several different models, generally split between 2 catgories.
 Location, location, location also applies to rentals, so we have desirable locations and undesirable locations.
 
-##### Desirable Locations
-
-###### Profit Maximization
-
+In this analysis we assume desirable locations and profit maximization on the part of the owners.
 This is what Econ 101 claims is the wonderful solution.  Older buildings are massively profitable.
 
-Given that future profits can be much higher than current profits it may involve flipping properties.
-
-###### Relaxed Profit
-
-Some (typically smaller) landlords will reduce stress by not maximizing profits.
-
-##### Undesirable Locations 
-
-In this case prices are set close to costs.  The landlord will squeeze costs.
+Given that future profits can be much higher than current profits it may involve flipping properties. In this case current profits may be relatively low because they have already been captured by the price paid for the building.
 

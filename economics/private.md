@@ -10,7 +10,6 @@ The solution to this problem is enough non profit housing to remove the market p
 
 {% include_relative about.md %}
 {% include_relative economics.md %}
-{% include_relative costs.md %}
 {% include_relative profit.md %}
 
 

@@ -8,6 +8,8 @@ It decribes a high level model of cost and rents for rental buildings. It only d
 
 A fundamental assumption is that building life is measured in decades or centuries.
 
+{% include_relative costs.md %}
+
 ### Charts
 
 The charts are about cash flow.  
