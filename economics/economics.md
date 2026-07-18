@@ -24,4 +24,5 @@ The constant dollar chart is best interpreted as the typical cash flow this year
 
 ![Graph of constant dollar costs - declining mortgage, flat operating, increasing replacement reserves, total](constant.svg)
 
+{% include_relative conclusions.md %}
 
