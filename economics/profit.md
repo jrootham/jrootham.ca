@@ -1,4 +1,4 @@
-#### Rents
+### Profitability
 
 Location, location, location also applies to rentals, so we have desirable locations and undesirable locations.
 
@@ -7,5 +7,11 @@ This is what Econ 101 claims is the wonderful solution.  Older buildings are mas
 
 Given that future profits can be much higher than current profits it may involve flipping properties. In this case current profits may be relatively low because they have already been captured by the price paid for the building.
 
+#### Rents
+
 In the charts below the rent estimates (start just below costs and increase by the inflation rate) are very conservative.
+
+#### Profits
+
+The profits are the rents minus the total costs.
 
