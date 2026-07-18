@@ -4,15 +4,9 @@
 
 This paper does two things.
 
-It decribes a high level model of costs for rental buildings.
-
-Based on that it describes some optional pricing strategies.
+It decribes a high level model of cost and rents for rental buildings. It only deals with buildings with relatively high attractiveness (near median rents and above), since those are the ones wirh policy salience. 
 
 A fundamental assumption is that building life is measured in decades or centuries.
-
-### Pricing
-
-Different owners of rental properties will use diferent pricing strategies.
 
 ### Charts
 
