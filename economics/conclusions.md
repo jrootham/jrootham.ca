@@ -6,5 +6,5 @@ There are several things we can see from this analysis.
 
 2. Large scale maintenance costs eventually dominate the cost structure.
 
-3. Over a long enough timescale rental properties are astoundingly profitable.
+3. Over a long enough timescale rental properties accumulated profits are astoundingly large.
 

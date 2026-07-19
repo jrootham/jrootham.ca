@@ -1,5 +1,9 @@
 ### Costs
 
+The absolute value of the costs specified below are very loose estimates. The key point in the analysis is how they change over time.
+
+All of these estimatess are based on my experience with my co-op and a generel understanding of economic conditions.
+
 The cost structure for rental buildings has three categories: Mortgage; Operating; Replacement Reserves.
 
 #### Mortgage

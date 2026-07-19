@@ -2,7 +2,7 @@
 
 ## Summary and Recommendations
 
-Private landlords are a bad idea because markets will only drive prices down to the costs of new construction, not the (much lower) costs of existing buildings.
+Private landlords are a bad idea because markets will only drive rent down to the costs of new construction, not the (much lower) costs of existing buildings.
 
 This not only directly causes affordability issues but also creates a very large wealth transfer from renters to landlords. This is exactly the problem that Smith and Ricardo found objectional in their era.
 
