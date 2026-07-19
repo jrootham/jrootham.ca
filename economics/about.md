@@ -1,4 +1,4 @@
-# About Jim Rootham
+## About Jim Rootham
 
 Jim Rootham is a computer programmer by trade.
 He wrote his first program in 1968 and becam a professional a few years after that.
