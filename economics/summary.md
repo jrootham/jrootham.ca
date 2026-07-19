@@ -1,4 +1,4 @@
-# Private Landlords
+# Economics of Private Landlords
 
 ## Summary and Recommendations
 
