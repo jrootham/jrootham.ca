@@ -2,4 +2,3 @@
 
 [Private Landords](private.md)
 
-[Not for Profit](notforprofit.md)
