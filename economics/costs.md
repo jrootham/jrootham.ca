@@ -24,7 +24,7 @@ Replacement reserves are money saved to pay for large maintenance items.  To est
 
 The simplified plan here starts with an estimate and inflates it every year by the expected inflation for large repairs, which at 3.5% is higher than the assumed 2% general inflation rate.
 
-The 3.5% is from the current replacement reserve study for my co-op.
+The 3.5% is from the current replacement reserve study for my co-op.  The starting value is an estimate.
 
 #### Total Costs
 
