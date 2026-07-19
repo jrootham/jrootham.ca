@@ -6,24 +6,10 @@ The charts are about cash flow, they do not include more complex calculations of
 
 The nominal dollar chart is best interpreted as the history of a typical rental project.
 
-+ Flat mortgage
-+ Inflated operating
-+ More than inflated replacement reserves
-+ Total costs
-+ Rent 
-+ Profit
-
 ![Graph of nominal dollar costs - flat mortgage, inflation operating, more than inflation replacement reserves, total](nominal.svg)
-
-The constant dollar chart is best interpreted as the typical cash flow this year of a unit built that many years ago.
 
 #### Graph of constant dollar flows
 
-+ Deflated mortgage
-+ Flat operating
-+ Increasing replacement reserves
-+ Total costs
-+ Flat rent 
-+ Profit
+The constant dollar chart is best interpreted as the typical cash flow this year of a unit built that many years ago.
 
 ![Graph of constant dollar costs - declining mortgage, flat operating, increasing replacement reserves, total](constant.svg)

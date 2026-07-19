@@ -10,6 +10,8 @@
 
 {% include_relative charts.md %}
 
+{% include_relative discussion.md %}
+
 {% include_relative conclusions.md %}
 
 
