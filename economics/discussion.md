@@ -1,6 +1,6 @@
 ### Discussion
 
-The most obvious point about how costs change over time is the drop in coste when the mortgage is paid off.
+The most obvious point about how costs change over time is the drop in costs when the mortgage is paid off.
 
 The other notable point is how replacement reserves gradually dominate costs.
 
