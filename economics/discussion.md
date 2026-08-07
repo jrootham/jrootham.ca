@@ -6,7 +6,7 @@ The other notable point is how replacement reserves gradually dominate costs.
 
 On the income side it is notable how big the profits get.
 
-If we look at the foolowing table of Net Present Value (NPV) for each assumed interest rate we note that the total ranges from about $1,000,000 to about $150,000 dollars for a $60,000 investment, depending on a (reasonable) interet rate assumption.
+If we look at the folowing table of Net Present Value (NPV) for each assumed interest rate we note that the total ranges from about $1,000,000 to about $150,000 dollars for a $60,000 investment, depending on a (reasonable) interet rate assumption.
 
 The Internal Rate of Return (the interest rate that drops the NPV to zero) is about 15%.  This is about twice the expected rate of a stock index.
 
