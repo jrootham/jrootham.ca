@@ -13,13 +13,14 @@ The Internal Rate of Return (the interest rate that drops the NPV to zero) is ab
 This shoould be considered a lower bound on the rate of return because of the conservative rent increases in the model.
 
 |Interest|Value|
+||25 year|50 year|
 |------|--------|
-|2.00%|999,924|
-|4.00%|368,263|
-|6.00%|152,389|
-|8.00%|67,489|
-|10.00%|30,215|
-|12.00%|12,478|
-|14.00%|3,546|
-|16.00%|-1,126|
+|2.00%|1,273,774|758,585|
+|4.00%|440,709|234,827|
+|6.00%|176,254|84,961|
+|8.00%|76,567|34,248|
+|10.00%|33,567|14,171|
+|12.00%|13,126|5,084|
+|14.00%|2,738|514|
+|16.00%|-2,776|-1,965|
 
