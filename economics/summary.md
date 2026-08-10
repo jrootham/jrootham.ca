@@ -2,7 +2,7 @@
 
 ## Summary and Recommendations
 
-Private landlords are a bad idea because markets will only drive rent down to the costs of new construction, not the (much lower) costs of existing buildings. In fact, over the (long) life of a rental building the capital costs are almost irrelevent. The mortgage payments get eroded by inflation and drop to zero when the mortgage is paid off.
+Private landlords are a bad idea because markets will only drive rent down to the costs of new construction, not the (much lower) costs of existing buildings. In fact, over the (long) life of a rental building the capital costs are almost irrelevent. The mortgage payments get eroded by inflation and drop to zero when the mortgage is paid off. In significant parts of the private market rents do not follow costs.
 
 This not only directly causes affordability issues but also creates a very large wealth transfer from renters to landlords.
 
