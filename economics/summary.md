@@ -2,9 +2,11 @@
 
 ## Summary and Recommendations
 
-Private landlords are a bad idea because markets will only drive rent down to the costs of new construction, not the (much lower) costs of existing buildings.
+Private landlords are a bad idea because markets will only drive rent down to the costs of new construction, not the (much lower) costs of existing buildings. In fact, over the (long) life of a rental building the capital costs are almost irrelevent. The mortgage payments get eroded by inflation and drop to zero when the mortgage is paid off.
 
 This not only directly causes affordability issues but also creates a very large wealth transfer from renters to landlords.
+
+Since the new programs from the federal government include offering long amortization mortgages I have included that option in this analysis. It does offer some potential relief for renters, but does not reduce long term profitability that much.
 
 The solution to this problem is enough non profit housing to remove the market power of private landlords. This housing does not need to be subsidized, it just needs to charge only enough to cover its costs. It does not matter if the housing is owned directly by the government, is a not for profit co-op, or is owned by a not for profit organization.
 

@@ -10,7 +10,7 @@ I do not know of any generally accepted long term model for interest rates.
 
 The model used here assumes that the Bank of Canada hits its target rate for inflation and interest rates are therefore constant.  This is clearly false in the short term, but is a reasonable long term assumption.
 
-The mortgage costs assume a total capital cost of $400,000 with an 85% mortgage (15% down payment) at 6% interest with a 25 year amortization period.
+The mortgage costs assume a total capital cost of $400,000 with an 85% mortgage (15% down payment) at 6% interest with a 25 or 50 year amortization period.
 
 #### Operating
 
