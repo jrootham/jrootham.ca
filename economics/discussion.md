@@ -14,9 +14,8 @@ For a 50 year amortization period the returns are somewhat lower, although the I
 
 These should be considered lower bounds on the rate of return because of the conservative rent increases in the model.
 
-|Interest|Value|
-||25 year|50 year|
-|------|--------|
+|Interest|25 year value|50 year value|
+|------|--------|----------|
 |2.00%|1,273,774|758,585|
 |4.00%|440,709|234,827|
 |6.00%|176,254|84,961|

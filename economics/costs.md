@@ -20,7 +20,7 @@ The operating costs are derived from the experience of my co-op.
 
 #### Replacement Reserves
 
-Replacement reserves are money saved to pay for large maintenance items.  To estimate them properly requires a building condtion assessment to determine the timing of the replacement and a financial plan to determine the saving rate.
+Replacement reserves are money saved to pay for large maintenance items.  To estimate them properly requires a building condition assessment to determine the timing of the replacement and a financial plan to determine the saving rate.
 
 The simplified plan here starts with an estimate and inflates it every year by the expected inflation for large repairs, which at 3.5% is higher than the assumed 2% general inflation rate.
 

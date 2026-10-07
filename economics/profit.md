@@ -11,7 +11,7 @@ Given that future profits can be much higher than current profits it may involve
 
 In the charts below the rent estimates (start just below costs and increase by the inflation rate) are very conservative.
 
-#### Profits
+#### Margins
 
-The profits are the rents minus the total costs.
+The margins are the rents minus the total costs.
 
